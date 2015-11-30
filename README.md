@@ -8,6 +8,7 @@ Index
 
 * base_client.py : Contain the basic structure for a network client in python
 * base_server.py : As for the base_client but for the srver side.
+* crypto_fun.py: Some basic python function for crypto stuff
 * clever-network-server.py : More advanced structure for a network server that use the SocketSever module
 * cut-region.py : Python script that use OpenCV and that allow to cut a sub-region of an image and save it to a file.
 * httpsession.py : Example of how to use the httplib.
